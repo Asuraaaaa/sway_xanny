@@ -1,4 +1,4 @@
-print("Kuzkay_Coke has successfully started. Enjoy!")
+print("Sway_xanny has successfully started. Enjoy!")
 
 client_scripts {
   'config.lua',
